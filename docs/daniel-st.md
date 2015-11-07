@@ -5,3 +5,5 @@
  * hobby: Cooking
  * color: Yellow
  * age: 200
+ * eyes: Blue
+ * hair: Blonde	
