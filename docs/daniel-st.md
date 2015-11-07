@@ -3,3 +3,5 @@
  * where you are from: Los Angeles
  * favorite food: Noodles
  * hobby: Cooking
+ * color: Yellow
+ * age: 200
